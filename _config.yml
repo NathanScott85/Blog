@@ -1,4 +1,4 @@
-title: Hello, world! I'm David Freeman
+title: Hello, world! I'm Nathan Scott
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -10,11 +10,11 @@ site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
 author: Nathan Scott # add your name
-author-img: david-freeman.jpg # add your photo
+author-img: Nathan-Scott.jpg # add your photo
 about-author: I am a self taught programmer with an interest in Software and Web Development, I created this blog on github pages to complete the coding challenge 100DaysOfCode. # add description
 social-twitter: # add your Twitter handle
 social-facebook: # add your Facebook handle
-social-github: artemsheludko # add your Github handle
+social-github: Nathanfeely # add your Github handle
 social-linkedin: # add your Linkedin handle
 social-email: # add your Email address
 
