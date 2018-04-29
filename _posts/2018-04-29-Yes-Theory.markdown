@@ -3,7 +3,7 @@ layout: post
 title: So what is Yes Theory?
 date: 2018-04-29 13:32:20 +0300
 description: The use of positive thinking by the use of Yes Theory # Add post description (optional)
-img: Yes-Theory.jpg # Add image post (optional)
+img: Yes-Theory.png # Add image post (optional)
 tags: [Yes Theory, Positive Thinking, Say Yes!]
 ---
 ## So What is Yes Theory?
