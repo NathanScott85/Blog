@@ -10,7 +10,7 @@ tags: [Programming, Learn, Commitment, Rules] # add tag
 
 ### The Commitment
 
-### Starting 1st May 2018
+### Starting Monday 30th April 2018
 
 ### *I will code for at least an hour every day for the next 100 days.*
 

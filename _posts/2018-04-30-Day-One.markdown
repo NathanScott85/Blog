@@ -1,0 +1,50 @@
+---
+layout: post
+title: Day One
+date: 30-04-2018 00:00:00 +0300
+description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+img: day-one.jpg # Add image post (optional)
+tags: [Productivity, Software, Blog] # add tag
+---
+# 100 Days Of Code - Log
+
+### Day 1: April 29, 2016 
+
+
+**Today's Progress**: 
+I started today by splitting my time into three sections for the first hour I decided to start with working on free code camp, the challenge I started on was Remove Classes from an element with jQuery. 
+
+When I had finished I ended stopping at the build a tribute page on Code Pen, links below.
+
+During my second hour I spent my time learning from a react tutorial that I purchased from Udemy by a guy called Maximilian Schwarzmüller.
+
+The first part of his course I worked on an introduction using CodePen, where he explained some of the basics of the reactDom and how to pass different attributes and the most used way of doing this.
+
+As I mention below I decided my first project would be Front End Development and re-creating Google Search page more specifically St. Georges Day 2018, I have some of the base images ready to use.
+
+**Thoughts:** 
+
+Throughout the day working on different things I found that at the beginning of the day I was comleting all of the tutorials fine but I think to give myself more focus I will work on the Udemy Course that I purchased and then implement what I have learned during that time into my Google recreation.
+
+So rather than spending 1 hour on each section such as FreeCodeCamp, Udemy and the Google Project I could of better spent the time doing 1 hour 30 min on Google and Udemy.
+
+I had issues later today with the command line and github so I ended up wasting a lot of time getting this working so that my project was actually set up but for now the actual project is working fine and uploads everything to Github.
+
+**Link to work:** 
+
+I decided to work on learning Front End Development in React and to start this by trying to recreate google Search Page.
+
+[Google Project](https://github.com/NathanScott85/google)
+
+**Links to what I used to Learn:** 
+Remove Classes from an element with Jquery
+[FreeCodeCamp](https://www.freecodecamp.org/challenges/remove-classes-from-an-element-with-jquery)
+
+Build a tribute page
+[FreeCodeCamp](https://www.freecodecamp.org/challenges/build-a-tribute-page)
+
+After some time working through the tutorials from the udemy course, this is the codepen from the introduction.
+[CodePen](https://codepen.io/nathanscott/pen/xjqZKb)
+
+
+
