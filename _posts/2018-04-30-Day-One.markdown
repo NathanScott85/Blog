@@ -2,7 +2,7 @@
 layout: post
 title: Day One
 date: 2018-04-30 00:01:00 +0400
-description: 100DaysOfCode Day 2 # Add post description (optional)
+description: 100DaysOfCode Day 1 # Add post description (optional)
 img: day-one.jpg # Add image post (optional)
 tags: [Productivity, Software, Blog, 100DaysOfCode] # add tag
 ---
