@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Blog Is Now Live
-date: 29-04-2018 00:00:00 +0300
+date: 2018-04-29 00:00:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: software.jpg # Add image post (optional)
 tags: [Productivity, Software, Blog] # add tag
