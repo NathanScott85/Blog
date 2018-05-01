@@ -2,14 +2,14 @@ title: Hello, world! I'm Nathan Scott
 description: > # this means to ignore newlines until "baseurl:"
   Nathan Scott a Self Taught Developer starting the 100 Days of Code Challenge, this website is used as a blog.
 permalink: ':title/'
-baseurl: "/Blog" # the subpath of your site, e.g. /blog
+baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
 author: Nathan Scott # add your name
 author-img: Image.png # add your photo
-about-author: I am a self taught programmer with an interest in Software and Web Development, I created this blog on github pages to complete the coding challenge 100DaysOfCode, I will also use this site for future updates and continue to upload to keep a track of my progress. # add description
+about-author: I am a self taught programmer with an interest in Software and Web Development, I created this blog on github pages to complete the coding challenge 100DaysOfCode, I will also use this site for future updates outside of 100DaysOfCode to keep a track of my progress. # add description
 social-twitter: Xaensai # add your Twitter handle
 social-facebook: XaenSai # add your Facebook handle
 social-github: NathanScott85 # add your Github handle

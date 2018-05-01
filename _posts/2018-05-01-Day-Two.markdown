@@ -11,10 +11,16 @@ tags: [Productivity, Software, Blog, 100DaysOfCode] # add tag
 
 ### Day 2: May 1, 2018 
 
-**Today's Progress**: Write Something Here.
+**Today's Progress**: So for today I went with the things I had talked about yesterday and kept my focus on the udemy course on react and then later worked on my project of recreating the google search page(Front end).
 
-**Thoughts:** What Do I struggle with here or my thoughts about the day here.
+**Thoughts:** The first part of the work was lot of watching video's related to the Udemy course and using jsbin until a bit later where you actually got to the React section of the tutorials I spent 1 or two hours on this, later in the day I decided to start the actual project, I got some of the basic components set up and then added some text but later removed this in favor of adding in some bootstrap, so I used npm to install Bootstrap into the project and eventually put a basic header and footer into the project.
 
-**Link to work:** [Calculator App](http://www.example.com)
+I had some minor issues again with github but after some searching on the internet I found some commands that helped with the issue I was having in the terminal, other issues I was having was more related to css and trying to position text in a specific way. I will work more on this tomorrow to try and get the positioning fixed correctly.
 
-**Links to what I used to Learn:** [Calculator App](http://www.example.com)
+Need to fix the footer to the bottom of the page and I think adding in a search bar in the middle will make it look a lot better than just having plain old text so I could do that tomorrow.
+
+**Link to work:** [Google Project](https://github.com/NathanScott85/google/)
+
+**Links to what I used to Learn:** 
+
+[Udemy Course Work](https://github.com/NathanScott85/react-complete-guide)
