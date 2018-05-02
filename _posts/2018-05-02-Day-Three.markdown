@@ -1,0 +1,28 @@
+---
+layout: post
+title: Day Three
+date: 2018-05-02 23:32:00 +0100
+description: 100DaysOfCode Day 3
+img: Day-Three.jpg 
+tags: [Software, Blog, 100DaysOfCode]
+---
+
+# 100 Days Of Code - Log 
+
+### Day 3: May 2, 2018
+
+**Today's Progress**: I started today on my project of recreating google search page, I spent most of my time adding in different elements and working with them to get them in the correct position.
+
+A lot of my time was used on trying to find out how some things were positioned using CSS and this meant a lot of searching on google, so for today I did 1h 30min estimate.
+
+I did not spend any time on the tutorial that I had been working on over the last two days wanted to see some progress on the actual project I mentioned above.
+
+**Thoughts:** The main issues from today were mainly working with CSS and I think this attributes to my lack of understanding on which specific CSS code I should be using for a specific job like for example when working on the footer and trying to split the text at the bottom of the page so I have 3 words either side left and right eventually though after some effort and a bit of searching I managed to get a temporary solution to the problem.
+
+Other issues I am having is getting the form to be in the center of the page, although the buttons are in the correct place for now below the form I see this as giving me a lot of issues in the near future but will deal with that when the time comes.
+
+**Links to work:** [Google Project](https://github.com/NathanScott85/google/)
+
+**Links to what I used to learn:**
+
+[HTML/CSS: how to put text both right and left aligned in a paragraph](https://stackoverflow.com/questions/4032850/html-css-how-to-put-text-both-right-and-left-aligned-in-a-paragraph)
