@@ -1,0 +1,30 @@
+---
+layout: post
+title: Day Three
+date: 2018-05-03 23:32:00 +0100
+description: 100DaysOfCode Day 3
+img: Day-four.jpg
+tags: [Software, Blog, 100DaysOfCode]
+---
+
+# 100 Days Of Code - Log 
+
+### Day 3: May 3, 2018
+
+**Today's Progress**: So for the progress today I would actually not call it progress as such, after yesterdays post I decided it would be a bright idea to continue working and very late did I keep working. I did how ever get a good amount of work done on the actual project. The work I did yesterday I saved and uploaded today.
+
+You should be able to see a screen capture of the work I have done on the actual project, there is a section missing at the bottom which is the footer with all the information that normally comes at the bottom of a google webpage.
+
+![I and My friends]({{site.baseurl}}/assets/img/GoogleScreenCap.png)
+
+**Thoughts:** The big issue, excuse the pun is related to staying up late definately going to refrain from doing that in future as I feel exceptionally tired today which in itself is counter productive, regarding the actual project though, I got a lot of work done that can be seen in the above screenshot.
+
+The issues that I am having is working with bootstrap the elements such as the text I want them to align in specific places but it does not seem to or want to go where I would like, I suppose with more experience I can figure out what is actually wrong with it.
+
+**Links to work:** 
+
+[Google Project](https://github.com/NathanScott85/google/)
+
+**Links to what I used to learn:**
+
+[Nothing for this today]()
