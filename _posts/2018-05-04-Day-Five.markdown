@@ -13,7 +13,7 @@ tags: [Software, Blog, 100DaysOfCode]
 
 **Today's Progress**: I spent today working on the CSS and images for the top corner and sorting out issues  with Bootstrap, there are some issues still remaining but I made progress onceI had the the correct size images for the top left.
 
-![I and My friends]({{site.baseurl}}/assets/img/GoogleImage.png)
+![Google Progress]({{site.baseurl}}/assets/img/GoogleImage.png)
 
 **Thoughts:** I am finding that when something goes wrong with the CSS that I have to completely remove all css in one file then put it back again and this can become a bit tiresome, I did as I said make progress but in doing so I also messed up the location of the navbar which i had originally positioned correctlyto the right hand side.
 

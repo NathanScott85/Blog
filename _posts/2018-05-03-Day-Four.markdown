@@ -15,7 +15,7 @@ tags: [Software, Blog, 100DaysOfCode]
 
 You should be able to see a screen capture of the work I have done on the actual project, there is a section missing at the bottom which is the footer with all the information that normally comes at the bottom of a google webpage.
 
-![I and My friends]({{site.baseurl}}/assets/img/GoogleScreenCap.png)
+![Google Progress]({{site.baseurl}}/assets/img/GoogleScreenCap.png)
 
 **Thoughts:** The big issue, excuse the pun is related to staying up late definately going to refrain from doing that in future as I feel exceptionally tired today which in itself is counter productive, regarding the actual project though, I got a lot of work done that can be seen in the above screenshot.
 

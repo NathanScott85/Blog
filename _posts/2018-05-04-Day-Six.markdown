@@ -1,0 +1,28 @@
+---
+layout: post
+title: Day Six
+date: 2018-05-05 23:32:00 +0100
+description: 100DaysOfCode Day 6
+img: DaySix.png
+tags: [Software, Blog, 100DaysOfCode]
+---
+
+# 100 Days Of Code - Log 
+
+### Day 5: May 5, 2018
+
+**Today's Progress**: Todays time was spent with fixing issues with the search bar so that it would remain at the centre and correct size, I also had to deal with some of the responsiveness of the page today which helped a lot, the search bar is where I want it and the same goes for the right top images.
+
+![Google Progress]({{site.baseurl}}/assets/img/GoogleDay6.png)
+
+**Thoughts:** I Need to spend some time learning about media querys but I think for this project I will leave it without them as I would rather like to get used to how bootstrap works and I think for a future mini project work on a fully responsive nav bar to learn how those work properly with the google project I had the images loaded properly and the correct size but when using asmaller screen the images would revert bacj to default size.
+
+
+**Links to work:** 
+
+[Google Project](https://github.com/NathanScott85/google/)
+
+**Links to what I used to learn:**
+
+[Nothing for this today]()
+The learning for today was bootstrap responsiveness and search boxes.
