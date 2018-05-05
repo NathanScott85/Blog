@@ -1,0 +1,28 @@
+---
+layout: post
+title: Day Five
+date: 2018-05-04 23:32:00 +0100
+description: 100DaysOfCode Day 4
+img: Day-four.jpg
+tags: [Software, Blog, 100DaysOfCode]
+---
+
+# 100 Days Of Code - Log 
+
+### Day 3: May 3, 2018
+
+**Today's Progress**: I spent today working on the CSS and images for the top corner and sorting out issues  with Bootstrap, there are some issues still remaining but I made progress onceI had the the correct size images for the top left.
+
+![I and My friends]({{site.baseurl}}/assets/img/GoogleImage.png)
+
+**Thoughts:** I am finding that when something goes wrong with the CSS that I have to completely remove all css in one file then put it back again and this can become a bit tiresome, I did as I said make progress but in doing so I also messed up the location of the navbar which i had originally positioned correctlyto the right hand side.
+
+I am hoping that I can get this finished tomorrow then start a new project next week so thatI can then implement something different, I did not do any video tutorial work outside of the 1 hour commitment but I fully intend to pick that up over the next coming week.
+
+**Links to work:** 
+
+[Google Project](https://github.com/NathanScott85/google/)
+
+**Links to what I used to learn:**
+
+[Nothing for this today]()
