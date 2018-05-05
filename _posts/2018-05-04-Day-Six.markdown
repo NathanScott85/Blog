@@ -15,7 +15,7 @@ tags: [Software, Blog, 100DaysOfCode]
 
 ![Google Progress]({{site.baseurl}}/assets/img/GoogleDay6.png)
 
-**Thoughts:** I Need to spend some time learning about media querys but I think for this project I will leave it without them as I would rather like to get used to how bootstrap works and I think for a future mini project work on a fully responsive nav bar to learn how those work properly with the google project I had the images loaded properly and the correct size but when using asmaller screen the images would revert bacj to default size.
+**Thoughts:** I Need to spend some time learning about media querys but I think for this project I will leave it without them as I would rather like to get used to how bootstrap works and I think for a future mini project work on a fully responsive nav bar to learn how those work properly with the google project I had the images loaded properly and the correct size but when using asmaller screen the images would revert back to default size.
 
 
 **Links to work:** 
