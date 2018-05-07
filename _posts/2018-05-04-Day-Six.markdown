@@ -9,7 +9,7 @@ tags: [Software, Blog, 100DaysOfCode]
 
 # 100 Days Of Code - Log 
 
-### Day 5: May 5, 2018
+### Day 6: May 5, 2018
 
 **Today's Progress**: Todays time was spent with fixing issues with the search bar so that it would remain at the centre and correct size, I also had to deal with some of the responsiveness of the page today which helped a lot, the search bar is where I want it and the same goes for the right top images.
 

@@ -1,0 +1,35 @@
+---
+layout: post
+title: Day Eight
+date: 2018-05-07 23:32:00 +0100
+description: 100DaysOfCode Day 8
+img: day-eight.jpg
+tags: [Software, Blog, 100DaysOfCode]
+---
+
+# 100 Days Of Code - Log 
+
+### Day 8: May 7, 2018
+
+**Today's Progress**: Whilst working today for the new project I managed to set up some basic styles and split the page into two color's based on how the twitter log in page is designed. I added the text elements to the page and then included a button element which I moved to the left.
+
+As for the Udemy course work I spent a lot of time today working through the tutorials and following along with each one, I have spent around 4-5 hours or more doing that today then including the one hour I did on my actual project.
+
+As for the Udemy course I have actually hit an assignment which is something that I will continue to work on outside of the actual project I set myself, I think the right direction now is to try and do everything in react with some bootstrap elements or try and create a page in just react alone and see how that works out.
+
+![Google Progress]({{site.baseurl}}/assets/img/GoogleDay6.png)
+
+**Thoughts:** The project is going a lot slower than the actual google one that I did from day one there is a lot more to actually consider when creating this twitter log in page such as how to apply the CSS and implement the navbar so that it shows on the top but from the stuff I have been learning in react, I think using react for this will be a lot easier. So from tomorrow I will look into actually creating the twitter project in react.
+
+
+**Links to work:** 
+
+[Google Project](https://github.com/NathanScott85/google/)
+
+**Links to what I used to learn:**
+
+![Udemy Course Commits]({{site.baseurl}}/assets/img/UdemyCommits.png)
+
+**Links to work:** 
+
+[Udemy React](https://github.com/NathanScott85/react-complete-guide)

@@ -9,7 +9,7 @@ tags: [Software, Blog, 100DaysOfCode]
 
 # 100 Days Of Code - Log 
 
-### Day 3: May 3, 2018
+### Day 4: May 3, 2018
 
 **Today's Progress**: So for the progress today I would actually not call it progress as such, after yesterdays post I decided it would be a bright idea to continue working and very late did I keep working. I did how ever get a good amount of work done on the actual project. The work I did yesterday I saved and uploaded today.
 
