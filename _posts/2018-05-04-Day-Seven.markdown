@@ -9,7 +9,7 @@ tags: [Software, Blog, 100DaysOfCode]
 
 # 100 Days Of Code - Log 
 
-### Day 5: May 6, 2018
+### Day 7: May 6, 2018
 
 **Today's Progress**: The progress I made today was not as much as I would of liked I had other things that required my attention but managed to get the new project set up and on Github without no issues coming from that,I decided to go with trying to recreate the twitter log in page from tomorrow.
 
