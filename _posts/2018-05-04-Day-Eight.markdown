@@ -17,14 +17,14 @@ As for the Udemy course work I spent a lot of time today working through the tut
 
 As for the Udemy course I have actually hit an assignment which is something that I will continue to work on outside of the actual project I set myself, I think the right direction now is to try and do everything in react with some bootstrap elements or try and create a page in just react alone and see how that works out.
 
-![Google Progress]({{site.baseurl}}/assets/img/twitter-progress.png)
+![Twitter Progress]({{site.baseurl}}/assets/img/twitter-progress.png)
 
 **Thoughts:** The project is going a lot slower than the actual google one that I did from day one there is a lot more to actually consider when creating this twitter log in page such as how to apply the CSS and implement the navbar so that it shows on the top but from the stuff I have been learning in react, I think using react for this will be a lot easier. So from tomorrow I will look into actually creating the twitter project in react.
 
 
 **Links to work:** 
 
-[Google Project](https://github.com/NathanScott85/twitter)
+[Twitter Project](https://github.com/NathanScott85/twitter)
 
 **Links to what I used to learn:**
 
