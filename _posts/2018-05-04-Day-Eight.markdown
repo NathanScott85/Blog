@@ -24,7 +24,7 @@ As for the Udemy course I have actually hit an assignment which is something tha
 
 **Links to work:** 
 
-[Google Project](https://github.com/NathanScott85/google/)
+[Google Project](https://github.com/NathanScott85/twitter)
 
 **Links to what I used to learn:**
 
