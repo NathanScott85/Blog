@@ -26,8 +26,8 @@ Small progress in the above, I went on to try and change the individual colors o
 
 **Links to what I used to learn:**
 
-![Nothing Worked on this today]()
+Nothing Worked on this today
 
 **Links to work:** 
 
-[Udemy React](https://github.com/NathanScott85/react-complete-guide)
+
