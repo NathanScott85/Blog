@@ -1,0 +1,33 @@
+---
+layout: post
+title: Day Nine
+date: 2018-05-08 23:32:00 +0100
+description: 100DaysOfCode Day 9
+img: Day-Nine.jpg
+tags: [Software, Blog, 100DaysOfCode]
+---
+
+# 100 Days Of Code - Log 
+
+### Day 9: May 8, 2018
+
+**Today's Progress**: Today I worked on switching the website over to using react with props whilst still keeping some bootstrap elements, I worked on using states to store the names of each individual button then passing those names into the actual render method.
+
+Small progress in the above, I went on to try and change the individual colors of each button which took up a lot of time the hour that I allocated to working on my actual project.
+
+![Button Props]({{site.baseurl}}/assets/img/ButtonProps.png)
+
+**Thoughts:** The implementation the states and props within react was rather simple to complete and I found I had more difficulty with the way the components work currently I am rendering the buttons as components from one file and this combined with bootstrap limits the colors to the same, so I need to either create a secondary component or figure out a way to change one button to the desired colors and border whilst maintaining the actual component in question.
+
+![Twitter Progress]({{site.baseurl}}/assets/img/ButtonState.png)
+**Links to work:** 
+
+[Twitter Project](https://github.com/NathanScott85/twitter)
+
+**Links to what I used to learn:**
+
+![Nothing Worked on this today]({{)
+
+**Links to work:** 
+
+[Udemy React](https://github.com/NathanScott85/react-complete-guide)
