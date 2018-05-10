@@ -9,7 +9,7 @@ tags: [Software, Blog, 100DaysOfCode]
 
 # 100 Days Of Code - Log 
 
-### Day 9: May 9, 2018
+### Day 10: May 9, 2018
 
 **Today's Progress**: I continued with my second project of recreating the Front-End of Twitter Log in Page, I changed from using forms to inputs and removed the formJS file and a few others as I was really overcomplicating things.
 
