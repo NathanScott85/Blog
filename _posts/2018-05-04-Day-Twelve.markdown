@@ -9,7 +9,7 @@ tags: [Software, Blog, 100DaysOfCode]
 
 # 100 Days Of Code - Log 
 
-### Day 11: May 15, 2018
+### Day 12: May 15, 2018
 
 **Today's Progress**: Today I changed the way sections of the text appeared on the screen, it was more project clean up and make it look like the actual website. A lot of my progress was made when moving the actual text around keeping the alignments whilst using Margin-top for example.
 
