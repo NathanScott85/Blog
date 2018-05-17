@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Day Twelve
+title: Day Thirteen
 date: 2018-05-16 23:32:00 +0100
 description: 100DaysOfCode Day 13
-img: Thirteen.png
+img: thirteen.png
 tags: [Software, Blog, 100DaysOfCode]
 ---
 
