@@ -13,7 +13,7 @@ tags: [Software, Blog, 100DaysOfCode]
 
 **Today's Progress**: I started today by working on the Udemy course work, I linked a picture of the commits below, i eventually got to the point of where I am on the second assignment set by the Course trainer.
 
-In regards to the actual project of learning react so far it is going well, I started using ![ Styled Components](https://www.styled-components.com/docs/api) to change how the project looks.
+In regards to the actual project of learning react so far it is going well, I started using [ Styled Components](https://www.styled-components.com/docs/api) to change how the project looks.
 
 ![React Project]({{site.baseurl}}/assets/img/react-project.png)
 
