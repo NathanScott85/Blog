@@ -22,8 +22,6 @@ The contact page is looking a lot better although still needs some work and the 
 
 **Thoughts:** The major issue for today was the background image, once I had managed to sort the that issue everything else went a lot more smooth, although i did have one issue with webpack that took up some time but managed to sort that using npm update webpack. I am looking forward to what I want to do tomorrow as I am attending a Free Code camp event run by some locals in my area.
 
-![React Learning]({{site.baseurl}}/assets/img/React-Learning.png)
-
 **Links to work:**
 
 [React Learning](https://github.com/NathanScott85/react-learning)
