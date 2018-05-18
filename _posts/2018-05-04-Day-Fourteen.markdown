@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Day Fourteen
-date: 2018-05-16 23:32:00 +0100
+date: 2018-05-17 23:32:00 +0100
 description: 100DaysOfCode Day 14
 img: Fourteen.png
 tags: [Software, Blog, 100DaysOfCode]
@@ -9,7 +9,7 @@ tags: [Software, Blog, 100DaysOfCode]
 
 # 100 Days Of Code - Log 
 
-### Day 14: May 16, 2018
+### Day 14: May 17, 2018
 
 **Today's Progress**: I started today by working on the Udemy course work, I linked a picture of the commits below, i eventually got to the point of where I am on the second assignment set by the Course trainer.
 
