@@ -9,7 +9,7 @@ tags: [Software, Blog, 100DaysOfCode]
 
 # 100 Days Of Code - Log 
 
-### Day 12: May 16, 2018
+### Day 13: May 16, 2018
 
 **Today's Progress**: Today I learned about React Router which has been changed to Browser Router and I Implemented Switch, I added Styled Components to the project to see how this works and then compared it to styles in React.
 
