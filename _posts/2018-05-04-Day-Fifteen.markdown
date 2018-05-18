@@ -8,7 +8,7 @@ tags: [Software, Blog, 100DaysOfCode]
 ---
 # 100 Days Of Code - Log
 
-## Day 15: May 17, 2018
+## Day 15: May 18, 2018
 
 **Today's Progress**: I implemented more images on the contact page using svg files, I then used the same images that had links and placed them on top of the background image I use for the Homepage with the links attached.
 
