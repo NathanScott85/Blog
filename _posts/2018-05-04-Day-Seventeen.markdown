@@ -3,7 +3,7 @@ layout: post
 title: Day Seventeen
 date: 2018-05-20 23:32:00 +0100
 description: 100DaysOfCode Day 17
-img: Day17.png
+img: Day17.jpg
 tags: [Software, Blog, 100DaysOfCode]
 ---
 # 100 Days Of Code - Log
