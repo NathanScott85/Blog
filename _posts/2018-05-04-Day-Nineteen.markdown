@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Day Eighteen
+title: Day Nineteen
 date: 2018-05-22 23:32:00 +0100
 description: 100DaysOfCode Day 19
 img: 19.png
