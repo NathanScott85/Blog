@@ -10,10 +10,13 @@ tags: [Software, Blog, 100DaysOfCode]
 
 ## Day 20: May 23, 2018
 
-**Today's Progress**: The progress I made today was brilliant, I managed to get a fully functioning navbar
+**Today's Progress**: The progress I made today was brilliant, I managed to get a fully functioning navbar, I implemented a carousel and worked on getting media query's into my site so that it is responsive, I further changed the site to use more styled components such as the headers. The carousel still needs some work but thats for a later date.
+
+For further information on the changes made check out the link below.
+
 I did not work on any udemy tutorials today.
 
-**Thoughts:** I really need to take my time when completing things and I still have the habit of completing loads of things and not committing changes right away, so this is now a priority when working as bad habits later will become my worst enemy.
+**Thoughts:** I made up for the mistakes of yesterday and gained some actual progress by having actual bootstrap elements in the website, which has been on my mind for a few days now it was either implement bootstrap or use the css grid system which is also something that I need to learn.
 
 **Links to work:**
 
