@@ -12,7 +12,7 @@ tags: [Software, Blog, 100DaysOfCode]
 
 **Today's Progress**: I worked on getting the site looking the part today and adding in images from a website called pexels, I currently have the contact page linked within the navbar but I am thinking of later removing this or a link in the footer or I could actually add a contact form but I think the the ways I have linked are enough.
 
-![About]({{site.baseurl}}/assets/img/portfolio/about.png)
+![About]({{site.baseurl}}/assets/img/portfolio/About.png)
 
 I worked on the advanced web developer boot camp by Colt Steele from udemy, I learned about Css: Hover, Active and Focus which helped with my button on the navigation bar today making it look different when it is selected.
 
