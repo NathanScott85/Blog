@@ -28,4 +28,4 @@ A lot of topics covered which I hope will help me with future projects and for t
 
 **Links to work:**
 No project work today but here is a part image of the tutorials I worked through: -
-![About]({{site.baseurl}}/assets/img/portfolio/AdvancedWebDeveloperJS.png)
+![About]({{site.baseurl}}/assets/img/AdvancedWebDeveloperJS.png)
