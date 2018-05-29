@@ -18,7 +18,7 @@ The course went through different ways to do some form of debugging in react App
 I worked on a lot of the above and a few other coding exercises which I spent approximately 5-8 hours working through the video's and the exercises.
 
 **Thoughts:** 
-This course the main part of the work could actually be adapted and used as a To Do List with a bit of work this was something that I thought about during today, I had lots of fun learning today although it was not on projects but still I learned a lot of information.
+This course the main part of the work could actually be adapted and used as a To Do List or used as a Nav link that moves down or to the left or right with a bit of work this was something that I thought about during today, I had lots of fun learning today although it was not on projects but still I learned a lot of information.
 
 **Links to work:**
 
