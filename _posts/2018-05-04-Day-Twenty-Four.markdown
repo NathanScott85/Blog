@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Day Twenty Four
-date: 2018-05-27 23:32:00 +0100
+date: 2018-05-28 23:32:00 +0100
 description: 100DaysOfCode Day 21
 img: 24.jpeg
 tags: [Software, Blog, 100DaysOfCode]
