@@ -2,7 +2,7 @@
 layout: post
 title: Day Twenty Five
 date: 2018-05-29 23:32:00 +0100
-description: 100DaysOfCode Day 21
+description: 100DaysOfCode Day 25
 img: 25.jpg
 tags: [Software, Blog, 100DaysOfCode]
 ---
