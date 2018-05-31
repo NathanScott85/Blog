@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Day Twenty Seven
-date: 2018-05-30 23:32:00 +0100
+date: 2018-05-31 23:32:00 +0100
 description: 100DaysOfCode Day 27
-img: 27.jpeg
+img: 27.jpg
 tags: [Software, Blog, 100DaysOfCode]
 ---
 # 100 Days Of Code - Log
