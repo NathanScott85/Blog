@@ -8,7 +8,7 @@ tags: [Software, Blog, 100DaysOfCode]
 ---
 # 100 Days Of Code - Log
 
-## Day 28: May 02, 2018
+## Day 28: June 02, 2018
 
 **Today's Progress**: There was a Free Code Camp meet up today, I looked into creating my own navbar without using bootstrap for most of the FCC session and had a look at another FCC members code who is also learning react which was interesting to read, I eventually tried implementing the information that I found during the day later that evening but ended up leaving it for the night
 
