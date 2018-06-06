@@ -37,7 +37,7 @@ Here is a snippet of the code that started off my day today: -
 **Thoughts:** I am overall positive about todays learning session as I write this I am starting to slowly grasp props and how they work with the passing of information and even slowly getting to grips with the spread operator, I will reset my code in my project tomorrow and implement what I have learned about props and information into the project that I decided to work on in react but I will also not neglect the tutorials as this is a fundamental part of how I learn react.
 
 **Links to work:** 
-[National Parks](https://github.com/NathanScott85/national-parks/commits/master)
+No Links to work today as I was learning from a tutorial.
 
 
 
