@@ -3,7 +3,7 @@ layout: post
 title: Day Thirty
 date: 2018-06-04 23:32:00 +0100
 description: 100DaysOfCode Day 30
-img: 30.jpg
+img: 30.jpeg
 tags: [Software, Blog, 100DaysOfCode]
 ---
 
