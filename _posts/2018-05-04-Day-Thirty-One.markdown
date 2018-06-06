@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Day Thirty
+title: Day Thirty-One
 date: 2018-06-05 23:32:00 +0100
 description: 100DaysOfCode Day 31
 img: 31.jpg
