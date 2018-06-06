@@ -15,10 +15,10 @@ tags: [Software, Blog, 100DaysOfCode]
 
 I managed to implement the Burger menu that Duarte Monteiro created so credit to him for that and whilst implementing that into a create-react-app I learned about React-Motion, spring and presets.
 
+        {Motion, spring, presets} from 'react-motion'; 
+
 I later decided to call it quits as I was not getting the hang on how props worked and I will work on learning from a different tutorial tomorrow and trying to be careful about not been stuck in a crutch around the tutorial safety zone.
   
-   {Motion, spring, presets} from 'react-motion';
-
 **Thoughts:** Today was not the most productive of days I did not achieve much of what I wanted although I did end u posting on stack overflow to try and get some help with the issue that I was having but this resulted in what I spoke about above that I needed more practice with passing information around using props.
 
 
