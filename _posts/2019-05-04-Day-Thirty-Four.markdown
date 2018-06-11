@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Day Thirty-Three
+title: Day Thirty-Four
 date: 2018-06-08 23:32:00 +0100
 description: 100DaysOfCode Day 34
 img: 34.png
