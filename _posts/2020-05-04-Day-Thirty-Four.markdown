@@ -9,7 +9,7 @@ tags: [Software, Blog, 100DaysOfCode]
 
 # 100 Days Of Code - Log
 
-## Day 34: June 09, 2018
+## Day 35: June 09, 2018
 
 **Today's Progress**: There is not a lot to write about today I went back onto free code camp and worked through the following sections: -
 
