@@ -11,9 +11,11 @@ tags: [Software, Blog, 100DaysOfCode]
 
 ## Day 36: June 10, 2018
 
-**Today's Progress**: 
+**Today's Progress**: I worked on the Free Code camp website today as I thought it would be good to reach one of the projects on the actual website but prior to reaching the projects I had to complete the Responsive Web Design Principles, I eventually reached the build a tribute page where I went on to complete it in around two hours and I also worked on my tribute page passing the tests that were set for the project.
 
-**Thoughts:** 
+**Thoughts:** I found that some of the css problems had me thinking but where not actually that difficult, I rather enjoyed the creation of the tribute page regardless of the content links to the page are below: -
 
 **Links to work:**
-No Links to work today.
+
+[Steve Jobs Tribute Page](https://codepen.io/nathanscott/full/YvNMGR/)
+
