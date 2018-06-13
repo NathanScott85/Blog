@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Day Thirty-Six
+title: Day Thirty-Seven
 date: 2018-06-11 23:32:00 +0100
 description: 100DaysOfCode Day 37
 img: 37.jpg
