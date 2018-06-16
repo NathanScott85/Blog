@@ -1,0 +1,23 @@
+---
+layout: post
+title: Day Forty
+date: 2018-06-13 23:32:00 +0100
+description: 100DaysOfCode Day 40
+img: 40.jpg
+tags: [Software, Blog, 100DaysOfCode]
+---
+
+# 100 Days Of Code - Log
+
+## Day 39: June 15, 2018
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+
+
+**Links to work:**
+<!-- [Google Project Fixes](https://github.com/NathanScott85/google/commits/master)
+
+[To Do List](https://github.com/NathanScott85/todo/commits/master) -->
