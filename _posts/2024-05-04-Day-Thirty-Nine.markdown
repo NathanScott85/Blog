@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Day Thirty-Nine
-date: 2018-06-12 23:32:00 +0100
+date: 2018-06-13 23:32:00 +0100
 description: 100DaysOfCode Day 39
 img: 39.png
 tags: [Software, Blog, 100DaysOfCode]
