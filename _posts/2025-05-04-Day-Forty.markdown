@@ -11,13 +11,10 @@ tags: [Software, Blog, 100DaysOfCode]
 
 ## Day 39: June 15, 2018
 
-**Today's Progress**: 
+**Today's Progress**: Working on free code camp today I managed to work through some of the Java section from Concatenating Strings with Plus Operator to Assignment with a Returned Value. I had to keep working through a head ache for most of the day but still keep pushing through.
 
-**Thoughts:** 
-
-
+**Thoughts:** The Concatenating Strings section on FCC got me thinking for awhile but I worked out the answer eventually, I think tomorrow I will work on the National Parks website and add more content to that.
 
 **Links to work:**
-<!-- [Google Project Fixes](https://github.com/NathanScott85/google/commits/master)
 
-[To Do List](https://github.com/NathanScott85/todo/commits/master) -->
+Free Code camp session today working through the problems.
